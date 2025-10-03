@@ -1,2 +1,7 @@
 chalange 1 code: using the % operator the code checks wether the number is even or odd by determining wether or not the number is divisable by 2 and then prints the number aswell as incereases the count by 1 until the number equals 1
   
+chalange 2 code: using the % operatorand the range 2-(number-1 (via the string "(n ** 0.5) + 1") the code checks wehtir or not the number input is a prime number.
+
+chalange 3:
+
+ai use: for challange 2 ai wase used to debug with the promt being used as: "using the criteria: " given an integer greater than 1, determine if the integer is a prime number or not", and the code: n = int(input()) while n >= 2" i = range(2, n - 1) g = n / i if n / i != 0: print(n,"is not a prime (divisible by",g,")") else: print(n,"is Prime")", the out put was the code used in the chalange 2 file
